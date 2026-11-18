@@ -1,6 +1,4 @@
 ## Hi there 👋
-
-<!--
 **prakash2658/prakash2658** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 # 💫 About Me:
 - 🔭 I’m currently working on **Advanced Computer Science projects & building scalable software solutions**<br>- 👯 I’m looking to collaborate on **Open-source software, backend systems, and data-driven applications**<br>- 🤝 I’m looking for help with **Cloud architecture, distributed systems, and advanced AI/ML integrations**<br>- 🌱 I’m currently learning **Advanced algorithms, system design, and modern data engineering**<br>- 💬 Ask me about **Python, Java, SQL, PostgreSQL, or my experience as a Software Engineer at HCLTech**<br>- ⚡ Fun fact **I'm constantly exploring new tech stacks and turning caffeine into clean, efficient code!**
